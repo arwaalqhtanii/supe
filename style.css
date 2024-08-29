@@ -1,0 +1,59 @@
+image {
+
+
+    align-items: center;
+    position: relative;
+    justify-content: center;
+}
+
+
+
+.over {
+    position: absolute;
+    top: 40%;
+    left: 35%;
+    color: aliceblue;
+    font-size: large;
+
+
+}
+
+.introdecio {
+    color: rgb(17, 16, 16);
+    font-size: large;
+    line-height: 1.5;
+    text-align: center;
+    text-decoration: double;
+    margin: 20px;
+}
+
+.img2 {
+    position: relative;
+    justify-content: right;
+    text-align: center;
+}
+
+.line {
+    width: 80%;
+    border-top: 2px solid black;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.imp {
+    color: rgb(86, 85, 84);
+    border-radius:0% ;
+    background-color: bisque;
+ border-radius: 10px;
+ 
+}
+
+
+.list {
+    color: rgb(86, 85, 84);
+    text-align: left;
+
+    font-size: medium;
+}
