@@ -34,26 +34,39 @@ image {
 }
 
 .line {
-    width: 80%;
+   
     border-top: 2px solid black;
-    text-align: center;
-    align-items: center;
-    justify-content: center;
+   
+   
+    margin: 20px 0;
+    height: 2px;
+
 
 }
 
 .imp {
     color: rgb(86, 85, 84);
-    border-radius:0% ;
+    border-radius: 60%;
+    width: 200px;
+    height: 50px;
     background-color: bisque;
- border-radius: 10px;
- 
+    text-align: center;
+    line-height: 10px;
+
+    margin: 8%;
+  
+    border: 2px solid bisque;
+
+
 }
 
 
 .list {
     color: rgb(86, 85, 84);
     text-align: left;
-
+    margin: 20px 0;
     font-size: medium;
+    height: auto;
+    margin: 8%;
+    
 }
