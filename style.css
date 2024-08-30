@@ -21,16 +21,19 @@ image {
 .introdecio {
     color: rgb(17, 16, 16);
     font-size: large;
-    line-height: 1.5;
+   
     text-align: center;
-    text-decoration: double;
+ 
     margin: 20px;
+
+
 }
 
-.img2 {
+.img2{
+    top: auto;
+   left: 400px;
     position: relative;
-    justify-content: right;
-    text-align: center;
+   bottom: 150px;
 }
 
 .line {
